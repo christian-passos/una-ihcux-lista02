@@ -23,6 +23,7 @@ Arquivos que o .NET criou para mim:
 <img width="1600" height="860" alt="minha-evidencia 2" src="https://github.com/user-attachments/assets/d7c94059-0e6a-4a08-af4e-8bc735a10ccc" />
 
 - Executando no dotnet run
-<img width="680" height="366" alt="minha-evidencia 3" src="https://github.com/user-attachments/assets/86fd58e4-2eae-42a4-858e-c5c775520552" />
+<img width="677" height="396" alt="minha-evidencia 3" src="https://github.com/user-attachments/assets/a7e0ba74-a585-441f-a8f4-82a126c3b066" />
+
 
 
